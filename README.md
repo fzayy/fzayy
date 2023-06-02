@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- title -->
 
-<!--
-**fzayy/fzayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align="center">fzayy</p>
 
-Here are some ideas to get you started:
+<!-- links -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://modrinth.com/user/zay">🌿 Modrinth</a>
+  ▫
+  <a href="https://twitter.com/f0rzay">🐦 Twitter</a>
+</p>
+
+<!-- intro -->
+
+<p align="center">i like writing useless code for hours. if you for some reason want to contact me, send me a message on twitter or discord.</p>
