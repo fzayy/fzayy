@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://modrinth.com/user/zay">🌿 Modrinth</a>
   ▫
-  <a href="https://twitter.com/f0rzay">🐦 Twitter</a>
+  <a href="https://twitter.com/pxhizay">🐦 Twitter</a>
 </p>
 
 <!-- intro -->
